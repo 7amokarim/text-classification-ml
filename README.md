@@ -60,7 +60,7 @@ Logistic Regression performed better on the IMDB dataset because it can handle m
 ## Run the Project
 The notebook can be run directly using Google Colab:
 
-[Open in Colab](PUT_YOUR_LINK_HERE)
+[Open in Colab](https://colab.research.google.com/drive/1w80kPzbjcTxnNP0i4rvSIEhUbh6c0PpC?usp=sharing)
 
 ---
 
